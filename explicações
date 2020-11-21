@@ -1,0 +1,16 @@
+/* #container{
+     box model  
+    border: 1px solid red;
+    padding: 40px; 
+    margin: 60px;
+    
+    width: 300px;
+    height: 300px;
+} 
+tamanho padrão da fonte: 16px (unidade forte) - 100%  (relativo do que está à cima)1 rem (relativo ao root) -  1em (um elemento à cima) 
+vh ou vw - viewport quebra a tela de visão em 100 pedaços 
+
+.input-block:focus-widthin::after cria um elemento ou sub-elemento?
+
+#aula 2 
+Porque eu preciso de um elemento para a hora?*/
